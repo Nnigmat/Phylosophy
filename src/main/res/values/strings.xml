@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Philosophy</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_search">Search</string>
+    <string name="title_activity_show_answers">ShowAnswersActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
